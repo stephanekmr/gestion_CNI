@@ -1,2 +1,2 @@
 # gestion_CNI
-application de préenrolement des CNI au cameroun
+application de préenrolement pour l'obtention d'une CNI (cameroun)
